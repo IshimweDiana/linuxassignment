@@ -1,0 +1,13 @@
+https://forum.huawei.com/enterprise/intl/en/thread/introduction-to-kubernetes-components-and-the-openstack-platform/718921756720381952?blogId=718921756720381952
+
+https://www.researchgate.net/publication/318816158_An_Introduction_to_Docker_and_Analysis_of_its_Performance
+
+https://www.dynatrace.com/news/blog/containers-relate-kubernetes-matters-openstack/
+
+https://www.dynatrace.com/news/blog/kubernetes-vs-docker/#:~:text=Cloud%2Dnative%20applications:%20Docker%20and,while%20avoiding%20vendor%20lock%2Din.
+
+https://www.openstack.org/#:~:text=Cloud%20Infrastructure%20for%20Virtual%20Machines,Open%20Infrastructure%20Blueprint%20white%20paper.
+
+https://www.veeam.com/blog/vmware-alternatives-business-guide.html#:~:text=For%20smaller%20businesses%20on%20tight,appropriate%20and%20cost%2Deffective%20choice.
+
+https://www.techtarget.com/searchitoperations/tip/Xen-vs-KVM-What-are-the-differences#:~:text=Vendor%20usage,rid%20of%20their%20current%20infrastructure.
